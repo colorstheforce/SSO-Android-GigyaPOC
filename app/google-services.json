@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54990648844",
+    "project_id": "empyrean-aurora-167217"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54990648844:android:cd7451e07d62c0f4",
+        "android_client_info": {
+          "package_name": "com.example.zhamada.gigyapoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54990648844-61qkkqhsu63svi6q8tkdmh9tujf9i3b5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "54990648844-8j4p41q09nfb54iotetja40gh0r3boar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zhamada.gigyapoc",
+            "certificate_hash": "56438440b550d5ae9fb3c0bd3d8f992a252e29bb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUU8ZRPOc_ETX56uitfzQuB4_24mJpZ9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

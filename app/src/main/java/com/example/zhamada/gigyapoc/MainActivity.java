@@ -292,4 +292,5 @@ public class MainActivity extends AppCompatActivity implements GSPluginListener,
     public void onConnectionRemoved(String s, Object o) {
         Log.d("POCMainActivity", "onConnectionRemoved():  " + o.toString());
     }
+
 }
